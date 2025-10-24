@@ -26,7 +26,7 @@ function Home() {
           value={name}
           onChange={(e) => setName(e.target.value)}
         />
-        <p>Hello, {name || "stranger"}!</p>
+        <p>Hello, {name || "Guest"}!</p>
       </div>
     </div>
   );
