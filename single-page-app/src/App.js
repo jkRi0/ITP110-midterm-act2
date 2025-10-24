@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div className="app">
         <nav className="navbar">
-          <h2 className="logo">Simple SPA</h2>
+          <h2 className="logo">SPA</h2>
           <div className="nav-links">
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
